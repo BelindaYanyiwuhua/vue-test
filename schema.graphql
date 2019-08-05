@@ -1,0 +1,13 @@
+type Book{
+  id:ID
+  title:String
+  isbn:String
+  pageCount:String
+  author:String
+}
+type Query{
+  findAllBooks(title:String):Book
+}
+schema{
+  query:Query
+}
