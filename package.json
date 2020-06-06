@@ -18,7 +18,7 @@
     "apollo-link-http": "^1.5.15",
     "apollo-server": "^2.7.1",
     "apollo-server-express": "^1.4.0",
-    "apollo-server-koa": "^1.3.6",
+    "apollo-server-koa": "^2.14.2",
     "babel-preset-es2015": "^6.24.1",
     "body-parser": "^1.18.3",
     "core-js": "^2.6.5",
