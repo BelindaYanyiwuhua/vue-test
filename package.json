@@ -16,7 +16,7 @@
     "apollo-client": "^2.6.3",
     "apollo-link": "^1.2.12",
     "apollo-link-http": "^1.5.15",
-    "apollo-server": "^2.7.1",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^1.4.0",
     "apollo-server-koa": "^1.3.6",
     "babel-preset-es2015": "^6.24.1",
