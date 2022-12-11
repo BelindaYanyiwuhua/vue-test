@@ -24,7 +24,7 @@
     "core-js": "^2.6.5",
     "cors": "^2.8.4",
     "element-ui": "^2.7.2",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "graphql": "^0.13.2",
     "graphql-import": "^0.6.0",
     "graphql-request": "^1.8.2",
